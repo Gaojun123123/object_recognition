@@ -1,0 +1,12 @@
+*.o
+*.crf
+*.d
+*.uvoptx
+*.bat
+*.lst
+*.htm
+**/OBJ
+
+!*.c
+!*.h
+!*.s
